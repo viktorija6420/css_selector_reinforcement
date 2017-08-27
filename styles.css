@@ -1,0 +1,16 @@
+.lorem-text{
+  color:tomato;
+}
+
+li a:hover{
+  color:green;
+}
+
+.hello{
+  font-size: 250%;
+}
+
+
+.all-bears li{
+ display: inline-block;
+}
